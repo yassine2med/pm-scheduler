@@ -1,0 +1,11 @@
+asset,building,task,frequency,first_due,hours
+Air Handler AHU-1,Building A,Replace filters,monthly,2026-01-31,1.5
+Air Handler AHU-1,Building A,Inspect belts and bearings,quarterly,2026-02-15,2.0
+Chiller CH-1,Building A,Annual tube cleaning,annual,2026-04-10,8.0
+Chiller CH-1,Building A,Log readings and check refrigerant,weekly,2026-01-05,0.5
+Boiler B-1,Building B,Combustion test,semiannual,2026-03-01,3.0
+Fire Pump FP-1,Building B,Churn test,weekly,2026-01-06,0.5
+Generator G-1,Building C,Load bank test,quarterly,2026-01-15,4.0
+Elevator E-2,Building C,Safety door inspection,biweekly,2026-01-07,1.0
+Roof Drains,Annex D,Clear debris,monthly,2026-01-12,2.0
+Emergency Lights,Building A,Monthly function test,monthly,2026-01-28,1.0
