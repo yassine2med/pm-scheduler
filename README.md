@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="pm-scheduler" width="100%"></p>
+
 # pm-scheduler
 
 Expands a preventive maintenance task list into dated visits, totals planned hours by month and exports an `.ics` calendar file.
