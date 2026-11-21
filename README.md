@@ -2,6 +2,8 @@
 
 # pm-scheduler
 
+[![CI](https://github.com/yassine2med/pm-scheduler/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/pm-scheduler/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Expands a preventive maintenance task list into dated visits, totals planned hours by month and exports an `.ics` calendar file.
 
 ![Screenshot](docs/screenshot.png)
